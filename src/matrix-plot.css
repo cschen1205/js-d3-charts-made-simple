@@ -1,0 +1,18 @@
+.matrixplot .background {
+  fill: #eee;
+}
+
+.matrixplot line {
+  stroke: #fff;
+}
+
+.matrixplot text.active {
+  fill: red;
+ 
+}
+
+.matrixplot {
+	 font-family: "PT Serif", serif;
+   font-size: small;
+  margin-bottom: 2em;
+}

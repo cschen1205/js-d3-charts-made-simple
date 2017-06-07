@@ -3,6 +3,7 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks('grunt-contrib-uglify');
   grunt.loadNpmTasks('grunt-mocha-test');
   grunt.loadNpmTasks('grunt-eslint');
+  grunt.loadNpmTasks('grunt-contrib-cssmin');
 
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
@@ -11,9 +12,19 @@ module.exports = function (grunt) {
         preserveComments: 'some',
       },
       build: {
-        src: 'src/jsd3.js',
+        src: 'src/*.js',
         dest: 'build/jsd3.min.js',
       },
+    },
+    cssmin: {
+      target: {
+        files: [{
+          expand: true,
+          src: 'src/*.css',
+          dest: 'build/jsd3.min.css',
+          ext: '.min.css'
+        }]
+      }
     },
     mochaTest: {
       test: {

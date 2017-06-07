@@ -24,17 +24,16 @@
     "url": "git+https://github.com/cschen1205/js-d3-charts-made-simple.git"
   },
   "keywords": [
-    "d3", 
-    "charts", 
+    "d3",
+    "charts",
     "d3-charts"
   ],
-  "dependencies": {
-    
-  },
+  "dependencies": {},
   "devDependencies": {
     "chai": "^3.5.0",
     "coveralls": "^2.13.1",
     "grunt": "^1.0.1",
+    "grunt-contrib-cssmin": "^2.2.0",
     "grunt-contrib-uglify": "^3.0.0",
     "grunt-eslint": "^19.0.0",
     "grunt-mocha-test": "^0.13.2",
