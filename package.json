@@ -1,5 +1,5 @@
 {
-  "name": "js-d3-charts",
+  "name": "js-d3-complex-charts",
   "version": "1.0.1",
   "description": "Package implements javascript chart object for complex d3 charts",
   "author": "Caishun Chen",
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cschen1205/js-longest-repeated-substring.git"
+    "url": "git+https://github.com/cschen1205/js-d3-charts-made-simple.git"
   },
   "keywords": [
     "d3", 
@@ -42,7 +42,7 @@
     "mocha": "^3.4.1"
   },
   "bugs": {
-    "url": "https://github.com/cschen1205/js-longest-repeated-substring/issues"
+    "url": "https://github.com/cschen1205/js-d3-charts-made-simple/issues"
   },
-  "homepage": "https://github.com/cschen1205/js-longest-repeated-substring#readme"
+  "homepage": "https://github.com/cschen1205/js-d3-charts-made-simple#readme"
 }

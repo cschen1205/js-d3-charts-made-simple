@@ -1,0 +1,703 @@
+
+{
+  "nodes": [
+    {
+      "name": "Melzer J.",
+      "value": 1085,
+      "defeated": [
+        "Fognini F."
+      ]
+    },
+    {
+      "name": "Fognini F.",
+      "value": 1345,
+      "defeatedBy": [
+        "Melzer J."
+      ]
+    },
+    {
+      "name": "Reister J.",
+      "value": 461,
+      "defeated": [
+        "Rosol L."
+      ]
+    },
+    {
+      "name": "Rosol L.",
+      "value": 1091,
+      "defeatedBy": [
+        "Reister J."
+      ]
+    },
+    {
+      "name": "Robert S.",
+      "value": 316,
+      "defeated": [
+        "Falla A."
+      ]
+    },
+    {
+      "name": "Falla A.",
+      "value": 666,
+      "defeatedBy": [
+        "Robert S."
+      ]
+    },
+    {
+      "name": "Stakhovsky S.",
+      "value": 488,
+      "defeated": [
+        "Dutra Silva R.",
+        "Federer R."
+      ]
+    },
+    {
+      "name": "Dutra Silva R.",
+      "value": 550,
+      "defeatedBy": [
+        "Stakhovsky S."
+      ]
+    },
+    {
+      "name": "Rufin G.",
+      "value": 589,
+      "defeated": [
+        "Matosevic M."
+      ]
+    },
+    {
+      "name": "Matosevic M.",
+      "value": 701,
+      "defeatedBy": [
+        "Rufin G."
+      ]
+    },
+    {
+      "name": "Kuznetsov An.",
+      "value": 663,
+      "defeated": [
+        "Montanes A."
+      ]
+    },
+    {
+      "name": "Montanes A.",
+      "value": 862,
+      "defeatedBy": [
+        "Kuznetsov An."
+      ]
+    },
+    {
+      "name": "Troicki V.",
+      "value": 935,
+      "defeated": [
+        "Tipsarevic J."
+      ]
+    },
+    {
+      "name": "Tipsarevic J.",
+      "value": 2390,
+      "defeatedBy": [
+        "Troicki V."
+      ]
+    },
+    {
+      "name": "Darcis S.",
+      "value": 418,
+      "defeated": [
+        "Nadal R."
+      ]
+    },
+    {
+      "name": "Nadal R.",
+      "value": 6895,
+      "defeatedBy": [
+        "Darcis S."
+      ]
+    },
+    {
+      "name": "Mannarino A.",
+      "value": 511,
+      "defeated": [
+        "Andujar P.",
+        "Isner J."
+      ],
+      "defeatedBy": [
+        "Kubot L."
+      ]
+    },
+    {
+      "name": "Andujar P.",
+      "value": 870,
+      "defeatedBy": [
+        "Mannarino A."
+      ]
+    },
+    {
+      "name": "De Schepper K.",
+      "value": 627,
+      "defeated": [
+        "Lorenzi P.",
+        "Cilic M.",
+        "Monaco J."
+      ]
+    },
+    {
+      "name": "Lorenzi P.",
+      "value": 701,
+      "defeatedBy": [
+        "De Schepper K."
+      ]
+    },
+    {
+      "name": "Ram R.",
+      "value": 586,
+      "defeated": [
+        "Lacko L."
+      ]
+    },
+    {
+      "name": "Lacko L.",
+      "value": 635,
+      "defeatedBy": [
+        "Ram R."
+      ]
+    },
+    {
+      "name": "Brown D.",
+      "value": 261,
+      "defeated": [
+        "Garcia-Lopez G.",
+        "Hewitt L."
+      ]
+    },
+    {
+      "name": "Garcia-Lopez G.",
+      "value": 726,
+      "defeatedBy": [
+        "Brown D."
+      ]
+    },
+    {
+      "name": "Mahut N.",
+      "value": 460,
+      "defeated": [
+        "Hajek J."
+      ]
+    },
+    {
+      "name": "Hajek J.",
+      "value": 564,
+      "defeatedBy": [
+        "Mahut N."
+      ]
+    },
+    {
+      "name": "Hewitt L.",
+      "value": 710,
+      "defeated": [
+        "Wawrinka S."
+      ],
+      "defeatedBy": [
+        "Brown D."
+      ]
+    },
+    {
+      "name": "Wawrinka S.",
+      "value": 2915,
+      "defeatedBy": [
+        "Hewitt L."
+      ]
+    },
+    {
+      "name": "Dodig I.",
+      "value": 888,
+      "defeated": [
+        "Kohlschreiber P."
+      ]
+    },
+    {
+      "name": "Kohlschreiber P.",
+      "value": 1885,
+      "defeatedBy": [
+        "Dodig I."
+      ]
+    },
+    {
+      "name": "Levine J.",
+      "value": 503,
+      "defeated": [
+        "Pella G."
+      ]
+    },
+    {
+      "name": "Pella G.",
+      "value": 674,
+      "defeatedBy": [
+        "Levine J."
+      ]
+    },
+    {
+      "name": "Tomic B.",
+      "value": 780,
+      "defeated": [
+        "Querrey S.",
+        "Gasquet R."
+      ]
+    },
+    {
+      "name": "Querrey S.",
+      "value": 1810,
+      "defeatedBy": [
+        "Tomic B."
+      ]
+    },
+    {
+      "name": "Llodra M.",
+      "value": 844,
+      "defeated": [
+        "Nieminen J."
+      ]
+    },
+    {
+      "name": "Nieminen J.",
+      "value": 1075,
+      "defeatedBy": [
+        "Llodra M."
+      ]
+    },
+    {
+      "name": "Wang J.",
+      "value": 358,
+      "defeated": [
+        "Odesnik W."
+      ]
+    },
+    {
+      "name": "Odesnik W.",
+      "value": 534,
+      "defeatedBy": [
+        "Wang J."
+      ]
+    },
+    {
+      "name": "Soeda G.",
+      "value": 442,
+      "defeated": [
+        "Haider-Maurer A."
+      ]
+    },
+    {
+      "name": "Haider-Maurer A.",
+      "value": 531,
+      "defeatedBy": [
+        "Soeda G."
+      ]
+    },
+    {
+      "name": "Giraldo S.",
+      "value": 570,
+      "defeated": [
+        "Zeballos H."
+      ]
+    },
+    {
+      "name": "Zeballos H.",
+      "value": 859,
+      "defeatedBy": [
+        "Giraldo S."
+      ]
+    },
+    {
+      "name": "Brands D.",
+      "value": 803,
+      "defeated": [
+        "Gimeno-Traver D."
+      ]
+    },
+    {
+      "name": "Gimeno-Traver D.",
+      "value": 807,
+      "defeatedBy": [
+        "Brands D."
+      ]
+    },
+    {
+      "name": "Mathieu P.H.",
+      "value": 616,
+      "defeated": [
+        "Berankis R."
+      ]
+    },
+    {
+      "name": "Berankis R.",
+      "value": 711,
+      "defeatedBy": [
+        "Mathieu P.H."
+      ]
+    },
+    {
+      "name": "Reynolds B.",
+      "value": 346,
+      "defeated": [
+        "Johnson S."
+      ]
+    },
+    {
+      "name": "Johnson S.",
+      "value": 556,
+      "defeatedBy": [
+        "Reynolds B."
+      ]
+    },
+    {
+      "name": "Lopez F.",
+      "value": 1245,
+      "defeated": [
+        "Simon G."
+      ]
+    },
+    {
+      "name": "Simon G.",
+      "value": 2090,
+      "defeatedBy": [
+        "Lopez F."
+      ]
+    },
+    {
+      "name": "Isner J.",
+      "value": 1735,
+      "defeatedBy": [
+        "Mannarino A."
+      ]
+    },
+    {
+      "name": "Verdasco F.",
+      "value": 825,
+      "defeated": [
+        "Benneteau J.",
+        "Gulbis E."
+      ]
+    },
+    {
+      "name": "Benneteau J.",
+      "value": 1200,
+      "defeatedBy": [
+        "Verdasco F."
+      ]
+    },
+    {
+      "name": "Gulbis E.",
+      "value": 1026,
+      "defeated": [
+        "Tsonga J.W."
+      ],
+      "defeatedBy": [
+        "Verdasco F."
+      ]
+    },
+    {
+      "name": "Tsonga J.W.",
+      "value": 4155,
+      "defeatedBy": [
+        "Gulbis E."
+      ]
+    },
+    {
+      "name": "Federer R.",
+      "value": 7740,
+      "defeatedBy": [
+        "Stakhovsky S."
+      ]
+    },
+    {
+      "name": "Cilic M.",
+      "value": 2470,
+      "defeatedBy": [
+        "De Schepper K."
+      ]
+    },
+    {
+      "name": "Sijsling I.",
+      "value": 747,
+      "defeated": [
+        "Raonic M."
+      ]
+    },
+    {
+      "name": "Raonic M.",
+      "value": 2225,
+      "defeatedBy": [
+        "Sijsling I."
+      ]
+    },
+    {
+      "name": "Zemlja G.",
+      "value": 816,
+      "defeated": [
+        "Dimitrov G."
+      ]
+    },
+    {
+      "name": "Dimitrov G.",
+      "value": 1330,
+      "defeatedBy": [
+        "Zemlja G."
+      ]
+    },
+    {
+      "name": "Janowicz J.",
+      "value": 1549,
+      "defeated": [
+        "Almagro N."
+      ]
+    },
+    {
+      "name": "Almagro N.",
+      "value": 2195,
+      "defeatedBy": [
+        "Janowicz J."
+      ]
+    },
+    {
+      "name": "Kubot L.",
+      "value": 440,
+      "defeated": [
+        "Paire B.",
+        "Mannarino A."
+      ]
+    },
+    {
+      "name": "Paire B.",
+      "value": 1380,
+      "defeatedBy": [
+        "Kubot L."
+      ]
+    },
+    {
+      "name": "Monaco J.",
+      "value": 1740,
+      "defeatedBy": [
+        "De Schepper K."
+      ]
+    },
+    {
+      "name": "Seppi A.",
+      "value": 1380,
+      "defeated": [
+        "Nishikori K."
+      ]
+    },
+    {
+      "name": "Nishikori K.",
+      "value": 2495,
+      "defeatedBy": [
+        "Seppi A."
+      ]
+    },
+    {
+      "name": "Gasquet R.",
+      "value": 3135,
+      "defeatedBy": [
+        "Tomic B."
+      ]
+    },
+    {
+      "name": "Del Potro J.M.",
+      "value": 3960,
+      "defeated": [
+        "Ferrer D."
+      ]
+    },
+    {
+      "name": "Ferrer D.",
+      "value": 7220,
+      "defeatedBy": [
+        "Del Potro J.M."
+      ]
+    },
+    {
+      "name": "Murray A.",
+      "value": 8560,
+      "defeated": [
+        "Djokovic N."
+      ]
+    },
+    {
+      "name": "Djokovic N.",
+      "value": 11830,
+      "defeatedBy": [
+        "Murray A."
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": 0,
+      "target": 1
+    },
+    {
+      "source": 2,
+      "target": 3
+    },
+    {
+      "source": 4,
+      "target": 5
+    },
+    {
+      "source": 6,
+      "target": 7
+    },
+    {
+      "source": 8,
+      "target": 9
+    },
+    {
+      "source": 10,
+      "target": 11
+    },
+    {
+      "source": 12,
+      "target": 13
+    },
+    {
+      "source": 14,
+      "target": 15
+    },
+    {
+      "source": 16,
+      "target": 17
+    },
+    {
+      "source": 18,
+      "target": 19
+    },
+    {
+      "source": 20,
+      "target": 21
+    },
+    {
+      "source": 22,
+      "target": 23
+    },
+    {
+      "source": 24,
+      "target": 25
+    },
+    {
+      "source": 26,
+      "target": 27
+    },
+    {
+      "source": 28,
+      "target": 29
+    },
+    {
+      "source": 30,
+      "target": 31
+    },
+    {
+      "source": 32,
+      "target": 33
+    },
+    {
+      "source": 34,
+      "target": 35
+    },
+    {
+      "source": 36,
+      "target": 37
+    },
+    {
+      "source": 38,
+      "target": 39
+    },
+    {
+      "source": 40,
+      "target": 41
+    },
+    {
+      "source": 42,
+      "target": 43
+    },
+    {
+      "source": 44,
+      "target": 45
+    },
+    {
+      "source": 46,
+      "target": 47
+    },
+    {
+      "source": 48,
+      "target": 49
+    },
+    {
+      "source": 22,
+      "target": 26
+    },
+    {
+      "source": 16,
+      "target": 50
+    },
+    {
+      "source": 51,
+      "target": 52
+    },
+    {
+      "source": 53,
+      "target": 54
+    },
+    {
+      "source": 6,
+      "target": 55
+    },
+    {
+      "source": 18,
+      "target": 56
+    },
+    {
+      "source": 57,
+      "target": 58
+    },
+    {
+      "source": 59,
+      "target": 60
+    },
+    {
+      "source": 61,
+      "target": 62
+    },
+    {
+      "source": 63,
+      "target": 64
+    },
+    {
+      "source": 18,
+      "target": 65
+    },
+    {
+      "source": 66,
+      "target": 67
+    },
+    {
+      "source": 51,
+      "target": 53
+    },
+    {
+      "source": 32,
+      "target": 68
+    },
+    {
+      "source": 63,
+      "target": 16
+    },
+    {
+      "source": 69,
+      "target": 70
+    },
+    {
+      "source": 71,
+      "target": 72
+    }
+  ]
+}
