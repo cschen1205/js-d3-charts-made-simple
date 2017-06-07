@@ -19,7 +19,7 @@ module.exports = function (grunt) {
     cssmin: {
       target: {
         files: [{
-          expand: true,
+          expand: false,
           src: 'src/*.css',
           dest: 'build/jsd3.min.css',
           ext: '.min.css'
@@ -37,6 +37,6 @@ module.exports = function (grunt) {
   });
 
   // Default task(s).
-  grunt.registerTask('default', ['uglify']);
+  grunt.registerTask('default', ['uglify', 'cssmin']);
   grunt.registerTask('test', ['mochaTest']);
 };
