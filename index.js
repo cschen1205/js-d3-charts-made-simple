@@ -1,1 +1,1 @@
-module.exports = require('./src/jsd3');
+module.exports = require('./build/js3d.min');
