@@ -1,0 +1,29 @@
+<html>
+<head>
+
+<link href="https://rawgit.com/cschen1205/js-d3-charts-made-simple/master/build/jsd3.min.css" rel="stylesheet"></link>
+
+<script src="https://rawgit.com/cschen1205/js-d3-charts-made-simple/master/third-party-libs/jquery-2.1.3.min.js" type="text/javascript"></script>
+<script src="https://rawgit.com/cschen1205/js-d3-charts-made-simple/master/third-party-libs/d3.min.js" type="text/javascript"></script>
+<script src="https://rawgit.com/cschen1205/js-d3-charts-made-simple/master/third-party-libs/underscore-min.js" type="text/javascript"></script>
+<script src="https://rawgit.com/cschen1205/js-d3-charts-made-simple/master/build/jsd3.min.js" type="text/javascript"></script>
+
+
+<style>
+body{
+padding-top: 10px;
+}
+</style>
+</head>
+<body>
+<div id="chtSankey" class="sankeyplot" ></div>
+</body>
+
+<script>
+(function(){
+	d3.json("https://rawgit.com/cschen1205/js-d3-charts-made-simple/master/data/energy.json", function(energy) {
+		var plot = new SankeyPlot("chtSankey", energy);
+	});
+})();
+</script>
+</html>
