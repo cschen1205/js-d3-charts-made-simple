@@ -13,3 +13,4 @@ The types of charts included so far are listed below as well as the links to dem
 * Hive Plot [HTML DEMO](https://rawgit.com/cschen1205/js-d3-charts-made-simple/master/examples/example-hive.html)
 * Hierarchical Edge Bundling [HTML DEMO](https://rawgit.com/cschen1205/js-d3-charts-made-simple/master/examples/example-hierarchical.html)
 * Collapsible Tree [HTML DEMO](https://rawgit.com/cschen1205/js-d3-charts-made-simple/master/examples/example-collapsible-tree.html)
+* Bipartite Visualization [HTML DEMO](https://rawgit.com/cschen1205/js-d3-charts-made-simple/master/examples/example-bipartite.html)
