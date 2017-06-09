@@ -26,7 +26,15 @@
   "keywords": [
     "d3",
     "charts",
-    "d3-charts"
+    "d3-charts",
+    "association graph",
+    "hierarchical graph",
+    "collapsible tree",
+    "hive plot",
+    "matrix plot",
+    "sankey plot",
+    "concept map",
+    "bipartite visualization"
   ],
   "dependencies": {},
   "devDependencies": {
